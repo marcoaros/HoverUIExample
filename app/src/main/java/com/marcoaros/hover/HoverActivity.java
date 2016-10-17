@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.marcoaros.hover.myapplication.R;
+import com.marcoaros.hover.R;
 
 public class HoverActivity extends AppCompatActivity {
 
